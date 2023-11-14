@@ -1,0 +1,3 @@
+C:/Users/Yana/CLionProjects/sysplab5c/cmake-build-debug/CMakeFiles/sysplab5c.dir
+C:/Users/Yana/CLionProjects/sysplab5c/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Yana/CLionProjects/sysplab5c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
